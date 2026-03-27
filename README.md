@@ -16,6 +16,8 @@ WBSC-PL measures **character** — what does the system reveal about itself when
 
 Each probe in this library maps to a field in the [Worldview Belief System Card (WBSC)](https://github.com/rumagoso/worldview-belief-system-card) — an open standard for AI transparency. Run the probes against any AI system. Capture the raw responses. Rate the signals. Build an evidence-based picture of what the system actually is, not just what its developer claims it is.
 
+**Behavioral sensing:** [WBSC Probe Library](https://github.com/rumagoso/wbsc-probe-library)
+
 ---
 
 ## Current state
