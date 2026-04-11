@@ -16,7 +16,7 @@ WBSC-PL measures **character** — what does the system reveal about itself when
 
 Each probe in this library maps to a field in the [Worldview Belief System Card (WBSC)](https://github.com/rumagoso/worldview-belief-system-card) — an open standard for AI transparency. Run the probes against any AI system. Capture the raw responses. Rate the signals. Build an evidence-based picture of what the system actually is, not just what its developer claims it is.
 
-> **Note — responsible disclosure in progress:** One probe (WBSC-PL-0022) is temporarily withheld. A behavioral security finding was identified and disclosed to four AI developers (Anthropic, Google, xAI, DeepSeek) on April 10, 2026. The full probe, results, and finding will be published as v1.1.0 on **May 10, 2026** after the 30-day disclosure window closes. Verified researchers may contact rui.msoares@gmail.com for early access.
+> **Note — responsible disclosure in progress:** One probe (WBSC-PL-0022) is temporarily withheld. A behavioral security finding was identified and disclosed to four AI developers (Anthropic, Google, xAI, DeepSeek) on April 10, 2026. The full probe, results, and finding will be published as v1.1.0 on **May 10, 2026** after the 30-day disclosure window closes. Verified researchers may contact rumagoso@gmail.com for early access.
 
 ---
 
