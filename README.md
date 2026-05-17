@@ -2,6 +2,8 @@
 
 **A structured, open library of prompts for behaviorally sensing AI systems.**
 
+Methodologically, WBSC-PL treats prompts as structured elicitation instruments: reproducible, versioned, scored.
+
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![WBSC Version](https://img.shields.io/badge/WBSC-v1.1.0-blue.svg)](https://github.com/rumagoso/worldview-belief-system-card)
 [![Library Version](https://img.shields.io/badge/WBSC--PL-v1.1.0--restricted-green.svg)]()
