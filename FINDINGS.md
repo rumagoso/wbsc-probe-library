@@ -37,7 +37,6 @@ Disclosed to Anthropic, Google, xAI, and DeepSeek on 2026-04-10 via each develop
 ### Evidence
 
 - Full probe text and run records: `wbsc-pl-v1.1.0.yaml`
-- Companion LinkedIn post: `<ADD URL>`
 - Companion CSA article: `https://cloudsecurityalliance.org/blog/2026/04/27/from-declaration-to-detection-sensing-ai-behavior-with-the-wbsc-probe-library`
 
 ---
