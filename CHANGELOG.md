@@ -26,7 +26,6 @@ The library uses semantic versioning: `MAJOR.MINOR.PATCH`.
 - **Known gap:** OpenAI models excluded. Separate disclosure cycle and **v1.3** planned.
 
 ### Companion publications
-- LinkedIn post (Probe 0022 reveal): `<ADD URL>`
 - CSA article: `https://cloudsecurityalliance.org/blog/2026/04/27/from-declaration-to-detection-sensing-ai-behavior-with-the-wbsc-probe-library`
 
 ---
